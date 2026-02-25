@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is a text file.
 Change from master branch
+=======
+This is a text file.
+Change from master branch
+>>>>>>> 899ffad (first commit)
